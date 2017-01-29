@@ -164,7 +164,4 @@ public class Principal {
         entrada = sc.nextLine();
         System.out.println("");
     }
-    
-    
-    
 }
